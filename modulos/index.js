@@ -1,0 +1,1 @@
+export { saludoPersonalizado } from "./ejercicio1.js"
